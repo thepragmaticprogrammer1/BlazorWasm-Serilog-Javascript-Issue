@@ -9,7 +9,7 @@ var builder = WebAssemblyHostBuilder.CreateDefault(args);
 string InstanceId = Guid.NewGuid().ToString("n");
 var logConfig = new LoggerConfiguration()
     // .Enrich.WithProperty("InstanceId", InstanceId)
-    .WriteTo.BrowserConsole(outputTemplate: "%cserilog{_}color:white;background:#8c7574;border-radius:3px;padding:1px 2px;font-weight:600;{Level}[{SourceContext}]{Message}{NewLine}{Exception}");
+    .WriteTo.BrowserConsole();
 Log.Logger = logConfig.CreateLogger();
 
 // Remove this line and Javascript import works first time as expected
