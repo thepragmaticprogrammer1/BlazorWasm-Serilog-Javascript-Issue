@@ -1,0 +1,11 @@
+c:\temp\BlazorAppNet8\Shared\bin\Debug\net7.0\BlazorAppNet8.Shared.deps.json
+c:\temp\BlazorAppNet8\Shared\bin\Debug\net7.0\BlazorAppNet8.Shared.dll
+c:\temp\BlazorAppNet8\Shared\bin\Debug\net7.0\BlazorAppNet8.Shared.pdb
+c:\temp\BlazorAppNet8\Shared\obj\Debug\net7.0\BlazorAppNet8.Shared.GeneratedMSBuildEditorConfig.editorconfig
+c:\temp\BlazorAppNet8\Shared\obj\Debug\net7.0\BlazorAppNet8.Shared.AssemblyInfoInputs.cache
+c:\temp\BlazorAppNet8\Shared\obj\Debug\net7.0\BlazorAppNet8.Shared.AssemblyInfo.cs
+c:\temp\BlazorAppNet8\Shared\obj\Debug\net7.0\BlazorAppNet8.Shared.csproj.CoreCompileInputs.cache
+c:\temp\BlazorAppNet8\Shared\obj\Debug\net7.0\BlazorAppNet8.Shared.dll
+c:\temp\BlazorAppNet8\Shared\obj\Debug\net7.0\refint\BlazorAppNet8.Shared.dll
+c:\temp\BlazorAppNet8\Shared\obj\Debug\net7.0\BlazorAppNet8.Shared.pdb
+c:\temp\BlazorAppNet8\Shared\obj\Debug\net7.0\ref\BlazorAppNet8.Shared.dll

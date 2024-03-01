@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BlazorAppNet8.Client.props" />
+</Project>

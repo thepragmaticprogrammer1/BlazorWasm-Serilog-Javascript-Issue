@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "name": "Debug with Edge",
+      "type": "msedge",
+      "request": "launch",
+      "url": "http://localhost:5266",
+      "inspectUri": "{wsProtocol}://{url.hostname}:{url.port}/_framework/debug/ws-proxy?browser={browserInspectUri}"
+    },
+    {
+      "name": "Attach with Edge",
+      "type": "blazorwasm",
+      "request": "attach",
+      "cwd": "${workspaceFolder}\\Frontend\\Shell\\BFF",
+      "url": "http://localhost:5266",
+      "timeout": 120000
+    },
+    {
+      "name": "C#: BlazorAppNet8.Server [Default Configuration]",
+      "type": "dotnet",
+      "request": "launch",
+      "projectPath": "${workspaceFolder}\\Server\\BlazorAppNet8.Server.csproj"
+    }
+  ]
+}
